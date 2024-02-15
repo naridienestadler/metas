@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
 body{
-    background: linear-gradient(#0202ff,#013d01);
+    background: linear-gradient(#3333ee,#013d01);
+    font-family: Caveat;
 }
 h1{
     color: #059b9b;
